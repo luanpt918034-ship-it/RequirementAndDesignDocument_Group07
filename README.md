@@ -6,7 +6,7 @@
 - [Đặc tả yêu cầu (chức năng + phi chức năng)](./GiaiDoan1/01_DacTaYeuCau.md)
 - [Sơ đồ DFD](./GiaiDoan1/02_SoDoDFD.md)
 - [Sơ đồ Use Case](./GiaiDoan1/03_SoDoUseCase.md)
-- [Sơ đồ lớp (Class Diagram)](./GiaiDoan1/04_SoDoLop_ClassDiagram.md)
+- [Sơ đồ lớp (Class Diagram)](./GiaiDoan1/04_SoDoLop_ClassDiagram.drawio.pdf)
 
 ### Giai đoạn 2
 - [Thiết kế giao diện GUI](./GiaiDoan2/01_ThietKeGiaoDienGUI.md)
